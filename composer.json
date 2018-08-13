@@ -13,8 +13,8 @@
         "psr-4": { "VouchedFor\\AuditUiBundle\\": "" }
     },
     "require": {
-        "data-dog/audit-bundle": "^0.1.5",
-        "data-dog/pager-bundle": "^0.2.7"
+        "data-dog/audit-bundle": "^0.1.10",
+        "data-dog/pager-bundle": "^0.2.8"
     }
 }
 
