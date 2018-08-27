@@ -14,7 +14,13 @@
     },
     "require": {
         "data-dog/audit-bundle": "^0.1.10",
-        "data-dog/pager-bundle": "^0.2.8"
-    }
+        "data-dog/pager-bundle": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/licadunca/DataDogPagerBundle.git"
+        }
+    ]
 }
 
